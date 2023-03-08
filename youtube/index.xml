@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youtubes | Benjamin Elsner</title>
+    <link>https://benjaminelsner.com/youtube/</link>
+      <atom:link href="https://benjaminelsner.com/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <description>Youtubes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://benjaminelsner.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Youtubes</title>
+      <link>https://benjaminelsner.com/youtube/</link>
+    </image>
+    
+    <item>
+      <title>Causal Inference</title>
+      <link>https://benjaminelsner.com/youtube/causalinf/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://benjaminelsner.com/youtube/causalinf/</guid>
+      <description>&lt;p&gt;This course teaches the &lt;strong&gt;canonical research designs in causal inference&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Introduction to Causal Inference based on DAGs&lt;/li&gt;
+&lt;li&gt;Instrumental Variables&lt;/li&gt;
+&lt;li&gt;Marginal Treatment Effects&lt;/li&gt;
+&lt;li&gt;Regression Discontinuity&lt;/li&gt;
+&lt;li&gt;Differences-in-Differences&lt;/li&gt;
+&lt;li&gt;Synthetic Controls&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The course is mainly based on &lt;a href=&#34;https://mixtape.scunning.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Causal Inference: The Mixtape&lt;/em&gt;&lt;/a&gt; by Scott Cunningham and &lt;a href=&#34;https://www.mostlyharmlesseconometrics.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Mostly Harmless Econometrics&lt;/em&gt;&lt;/a&gt; by Josh Angrist and Steve Pischke. It also teaches some advanced material like regression kink designs or difference-in-differences with staggered adoption.&lt;/p&gt;
+&lt;p&gt;You can see an example for a video here:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/tUz2yl2QEbY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Public Economics</title>
+      <link>https://benjaminelsner.com/youtube/publicecon/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://benjaminelsner.com/youtube/publicecon/</guid>
+      <description>&lt;p&gt;This video series comprises of 50 videos on Public Economics at the undergraduate level. The course follows the textbook &lt;a href=&#34;https://store.macmillanlearning.com/us/product/Public-Finance-and-Public-Policy/p/1319281109&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Public Finance and Public Policy&lt;/em&gt;&lt;/a&gt; by Jonathan Gruber. The video series consists of 5 playlists:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLyvUJLHD8IsIDezGsOnDCL8_kcpOxXsbw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tools of Public Economics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLyvUJLHD8IsJh_iD_XWVnzq8N2TqwMijD&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Public Goods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLyvUJLHD8IsJ4lRLj2olJoCwoYRqUKelo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Externalities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLyvUJLHD8IsIGF0ZlVdE011_GL6OY7QuN&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Income Distribution and Welfare Programmes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLyvUJLHD8IsJhd2egOZMTvpTx2dhXqfIp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taxation&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://eml.berkeley.edu/~saez/course131/course131.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emmanuel Saez&lt;/a&gt; has a great set of lecture slides that cover the same material.&lt;/p&gt;
+&lt;p&gt;You can see an example for a video here:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kTpENtHzsPo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Metrics Nuts and Bolts</title>
+      <link>https://benjaminelsner.com/youtube/nutsandbolts/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://benjaminelsner.com/youtube/nutsandbolts/</guid>
+      <description>&lt;p&gt;In this video series, I answer frequently (and not so frequently) asked questions about undergraduate econometrics. The channel is work in progress, but a first example for a video can be found here:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Gb-Km1LDusM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Intuitive Metrix</title>
+      <link>https://benjaminelsner.com/youtube/intuitivemetrix/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://benjaminelsner.com/youtube/intuitivemetrix/</guid>
+      <description>&lt;p&gt;Many econometrics courses teach methods in the sequence maths-examples-applications, i.e. they first explain the mathematics, then show empirical examples, and then let students work through applications in the lab. The aim of &lt;strong&gt;Intuitive Metrix&lt;/strong&gt; is to teach econometrics based on intuitive explanations and visuals such as animations, videos, and dashboards. This website is not meant as a substitute for conventional econometrics courses but rather as a complement. For some students &amp;ndash; especially for visual learners &amp;ndash; this format may be helpful.&lt;/p&gt;
+&lt;p&gt;The website is currently work in progress. The aim is to have a fully-fledged website in late 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

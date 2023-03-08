@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Benjamin Elsner</title>
+    <link>https://benjaminelsner.com/workingpaper/</link>
+      <atom:link href="https://benjaminelsner.com/workingpaper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://benjaminelsner.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://benjaminelsner.com/workingpaper/</link>
+    </image>
+    
+    <item>
+      <title>Forced Migration and Local Public Policies: Evidence from Post-War West Germany</title>
+      <link>https://benjaminelsner.com/workingpaper/chevalieretal2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://benjaminelsner.com/workingpaper/chevalieretal2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Political Fallout of Air Pollution</title>
+      <link>https://benjaminelsner.com/workingpaper/bellanietal2021/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://benjaminelsner.com/workingpaper/bellanietal2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Be Selective about Migrant Self-Selection</title>
+      <link>https://benjaminelsner.com/workingpaper/biavaschielsner2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://benjaminelsner.com/workingpaper/biavaschielsner2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
