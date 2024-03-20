@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>The Political Fallout of Air Pollution</title>
+      <link>https://benjaminelsner.com/publication/bellanietal2021/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://benjaminelsner.com/publication/bellanietal2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Causal Inference</title>
       <link>https://benjaminelsner.com/youtube/causalinf/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
@@ -394,7 +402,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-437619825&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-638294175&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -404,7 +412,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-437619825&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-638294175&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
