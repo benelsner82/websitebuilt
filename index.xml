@@ -90,14 +90,6 @@
     </item>
     
     <item>
-      <title>The Political Fallout of Air Pollution</title>
-      <link>https://benjaminelsner.com/workingpaper/bellanietal2021/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://benjaminelsner.com/workingpaper/bellanietal2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Does Emigration Increase the Wages of Non-emigrants in Sending Countries</title>
       <link>https://benjaminelsner.com/publication/izawol2015/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -402,7 +394,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-452961738&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-296134578&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -412,7 +404,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-452961738&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-296134578&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
