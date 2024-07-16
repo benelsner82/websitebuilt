@@ -34,9 +34,9 @@
     
     <item>
       <title>Gender Gaps in Time Use: Pan-European Evidence from School Closures during COVID-19</title>
-      <link>https://benjaminelsner.com/workingpaper/elsner_covid2024/</link>
+      <link>https://benjaminelsner.com/publication/elsner_covid2024/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://benjaminelsner.com/workingpaper/elsner_covid2024/</guid>
+      <guid>https://benjaminelsner.com/publication/elsner_covid2024/</guid>
       <description></description>
     </item>
     
@@ -410,7 +410,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-526714389&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-371654982&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -420,7 +420,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-526714389&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-371654982&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
