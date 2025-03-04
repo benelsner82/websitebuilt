@@ -5,12 +5,20 @@
     <link>https://benjaminelsner.com/workingpaper/</link>
       <atom:link href="https://benjaminelsner.com/workingpaper/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://benjaminelsner.com/media/icon_hu3ee9bf54ee233331eea5cfc2b7816e56_2260_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://benjaminelsner.com/workingpaper/</link>
     </image>
+    
+    <item>
+      <title>Brexit Had No Measurable Impact on Irish Exporters</title>
+      <link>https://benjaminelsner.com/workingpaper/brexit2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://benjaminelsner.com/workingpaper/brexit2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Let&#39;s Be Selective about Migrant Self-Selection</title>
